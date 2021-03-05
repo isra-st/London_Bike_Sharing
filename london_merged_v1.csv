@@ -1,4 +1,4 @@
-index,timestamp,date,year,month,day,day_name,week_number,time,number,temperature,temperature_feels,hum,wind_speed,weather_code,is_holiday,is_weekend,season
+index,timestamp,date,year,month,day,day_name,week_number,time,bike_number,temperature,temperature_feels,hum,wind_speed,weather_code,is_holiday,is_weekend,season
 0,2015-01-04 00:00:00,15-01-04,2015,Jan,4,Sunday,1,00:00,182,3.0,2.0,93.0,6.0,3.0,0.0,1.0,3.0
 1,2015-01-04 01:00:00,15-01-04,2015,Jan,4,Sunday,1,01:00,138,3.0,2.5,93.0,5.0,1.0,0.0,1.0,3.0
 2,2015-01-04 02:00:00,15-01-04,2015,Jan,4,Sunday,1,02:00,134,2.5,2.5,96.5,0.0,1.0,0.0,1.0,3.0
