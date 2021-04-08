@@ -48,4 +48,8 @@ Test R^2: 0.655 - Test R^2: 0.582
 
 # Presentation
 
-[![London Bicycles Sharing]()]()
+[![London_bike_sharing_presentation](https://user-images.githubusercontent.com/73388089/114031685-e4165400-987b-11eb-8f98-3feecf109e54.png)](https://github.com/isra-st/london_bike_sharing/files/6278833/London_bike_sharing_presentation.pptx)
+
+
+
+
