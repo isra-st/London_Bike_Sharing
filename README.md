@@ -18,7 +18,7 @@ The goals of this project are:
 London bike sharing dataset
 https://www.kaggle.com/hmavrodiev/london-bike-sharing-dataset
 
-# OLS regression model Performance
+# OLS regression model performance
 
 Train R^2: 0.628 - Train Adjusted R^2: 0.628
 
