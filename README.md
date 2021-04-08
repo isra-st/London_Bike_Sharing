@@ -27,8 +27,8 @@ Test R^2: 0.655 - Test R^2: 0.582
 * Difference in R^2 between train and test 2.07%
 * Difference in R^2 between train and test is 4.6% which is less than 5%. 
 
-<img src="https://user-images.githubusercontent.com/73388089/114029525-e24b9100-9879-11eb-95af-583258825ca6.png" alt="Test_VS_Prediction" width="250" height="250">
-<img src="https://user-images.githubusercontent.com/73388089/114029573-f099ad00-9879-11eb-8d49-5fcd804232ed.png" alt="Test_VS_Prediction" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/73388089/114029525-e24b9100-9879-11eb-95af-583258825ca6.png" alt="Test_VS_Prediction" width="300" height="250"> <img src="https://user-images.githubusercontent.com/73388089/114029573-f099ad00-9879-11eb-8d49-5fcd804232ed.png" alt="Test_VS_Prediction" width="300" height="250">
+
 
 
 # Process
