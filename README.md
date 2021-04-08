@@ -47,7 +47,7 @@ Test R^2: 0.655 - Test R^2: 0.582
 
 
 # Presentation
-
+To see the presentation, click in the below picture.
 [<img src="https://user-images.githubusercontent.com/73388089/114032866-0492de00-987d-11eb-9609-31cb62479a73.png" alt="Test_VS_Prediction" width="400" height="330">](https://github.com/isra-st/london_bike_sharing/files/6278860/London_bike_sharing_presentation.pptx)
 
 
